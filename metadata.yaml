@@ -1,0 +1,29 @@
+_repo: Old-Church-Lore_38713
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Andrews, William
+    birthdate: 1848
+    deathdate: 1908
+    gutenberg_agent_id: '8969'
+    url: http://www.gutenberg.org/2009/agents/8969
+description: ''
+gutenberg_issued: '2012-01-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38713'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BR'
+- !lcsh 'Folklore -- Great Britain'
+- !lcsh 'Christian antiquities -- Great Britain'
+- !lcsh 'Manners and customs'
+- !lcsh 'Great Britain -- Social life and customs'
+title: Old Church Lore
+url: http://www.gutenberg.org/ebooks/38713
